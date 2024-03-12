@@ -1,14 +1,18 @@
 FORTNITE ISLAND CREATOR RULES
-2.15.2024
+3.12.2024
 The Fortnite Team
-Last updated: February 15, 2023
+Last updated: March 12, 2024
  
 
-UPDATE (November 10, 2023)
+UPDATE (March 12, 2024)
 We have made a number of policy updates. The key changes are:
 
-Added additional examples of content not suitable for a general audience to rule 1.15 (Align with Fortnite’s Game Rating)
-Clarified rule 1.18
+Updated rule 1.1, 1.2, 1.3, & 1.5
+Clarified rule 3
+Updated rule 3.2.1
+Clarified 4.2.3
+Updated rule 4.3.5
+Updated OTHER TERMS & CONDITIONS
 Please take the time to read through these updated rules and familiarize yourself with them.
 
 WELCOME FORTNITE CREATOR!
@@ -36,15 +40,15 @@ THE RULES
 
 As we work together to ensure Fortnite stays a safe and welcoming environment for everyone, your Fortnite content must follow these rules:
 
-1.1 A Safe Environment - Don’t create content involving or promoting illegal activities, including harassment, bullying, assault, doxing, swatting, gambling, illegal drugs, animal cruelty, fraud, hacking, and piracy. Content that condones or incites violence against others has no place in Fortnite.
+1.1 A Safe Environment - Don’t create content involving or promoting illegal activities, including the promotion of known real-world gangs or gang violence, the promotion of known real-world terrorist organizations or terrorism, harassment, bullying, assault, doxing, swatting, gambling, illegal drugs, animal cruelty, fraud, hacking, and piracy. Content that condones or incites violence against others has no place in Fortnite. Depictions of or threats of real-world violence will not be tolerated.
 
-1.2 Keep Personal Info Private - To respect privacy and help combat deceptive practices (phishing, buying/selling account information), do not disclose or request personal information anywhere in your island. There is one exception to this rule: You may include your social media handles/channels as long as they don’t include a URL or QR code or a request for direct or private messages. To preserve the privacy of others, you must not gather, share, or exploit the personal information of individuals or organizations through the use of your island, or attempt to. Do not include videos or photographs of people (yourself or others) anywhere in your island or metadata. Epic's voice and text chat within Fortnite include protections like privacy settings, parental controls, and player reporting. So don't provide other chat methods on your island, like chat boxes or custom keyboards. 
+1.2 Keep Personal Info Private - To respect privacy and help combat deceptive practices (phishing, buying/selling account information), do not disclose or request personal information anywhere in your island. There is one exception to this rule: You may include your social media handles/channels as long as they don’t include a URL or QR code or a request for direct or private messages. To preserve the privacy of others, you must not gather, share, or exploit the personal information of individuals or organizations through the use of your island, or attempt to. Do not include videos or photographs of people (yourself or others) anywhere in your island or metadata (name, description, thumbnail, loading screen text, and/or Discover video). Epic's voice and text chat within Fortnite include protections like privacy settings, parental controls, and player reporting. So don't provide other chat methods on your island, like chat boxes or custom keyboards. 
 
-1.3 Intolerance and Discrimination - Fortnite welcomes diversity in race, ethnicity, color, religion, gender identity, sexual orientation, ability, national origin, and other groups. Content should not demean, marginalize, use hateful language against, or belittle other users or groups.
+1.3 Intolerance and Discrimination - Fortnite welcomes diversity in race, ethnicity, color, religion, gender identity, sexual orientation, ability, national origin, and other groups. Content should not demean, dehumanize, marginalize, use hateful language against, perpetuate negative stereotypes about, or belittle other users or groups. Islands that promote or encourage intolerance or discrimination will not be allowed.
 
 1.4 Love… Don’t Hate - Don’t create content that includes hateful symbols or depictions or content that glorifies or incites violence.
 
-1.5 Bullying and Harassment - Respect others that participate in your creation. Interacting with others in a way that is predatory, threatening, intimidating, lewd, demeaning, derogatory, invasive of privacy, or abusive is against the rules.
+1.5 Bullying and Harassment - Respect others that participate in your creation. Interacting with others in a way that is predatory, threatening, intimidating, lewd, demeaning, derogatory, invasive of privacy, abusive, or that would cause real-world harm, including extortion, sextortion, and blackmail, is against the rules.
 
 1.6 Be Original - Keep your creations original. Don't duplicate, copy, or reproduce other creators’ promotional assets such as thumbnails, titles, and/or descriptions. Don’t pass off your creations as another creator’s work, including by using similar game titles, imagery, etc. Don’t impersonate other players, creators, streamers, celebrities, companies, brands, government officials, Epic employees, or anyone else. Pretending to be someone else in order to deceive or defraud others is not okay. 
 
@@ -121,7 +125,7 @@ We want to make it easy for you to promote your Fortnite island to help it be su
 
 3.2 Marketing Activities
 
-3.2.1. All marketing content you use to promote your island, regardless of channel or format, must comply with these rules. Epic reserves the right to prohibit any given marketing activity that it feels violates these rules.
+3.2.1. All marketing content you use to promote your island, regardless of channel or format, must comply with these rules, including the Content Rules & Guidelines described above in Rule 1 and the Epic Games Content Guidelines. Marketing content you use to promote your island should also be appropriate for the age rating you obtain for the island under Rule 1.15. Promotions that violate these rules may result in action being taken against the island(s) being promoted or actions against your Epic Account.
 
 3.2.2. You must not run advertisements on television or digital ad networks to promote your island, without express and prior consent from Epic Games. To seek this consent, please contact us using the Creator Support Form.
 
@@ -203,12 +207,13 @@ Owned commercial content is an island that is built or controlled by a brand or 
 
 4.3.4. Individual creators must be at least 18 to create or publish Paid commercial content.
 
-4.3.5. Whether commercial content or not, your island’s metadata (name, description, thumbnail, loading screen text, and/or Discover video) must not include calls to action, product claims, dates, or pricing. Examples of things that aren’t allowed in your island’s metadata:
+4.3.5. Whether commercial content or not, your island and your island’s metadata must not include (a) calls to action outside Fortnite, (b) solicitation to join, participate in, or donate to a real-world religion, political organization or military organization, c) product claims, (d) dates of offer, or (e) pricing. Examples of things that aren’t allowed in your island’s metadata:
 
 “Go to onlinestore.com to learn more!”
 “Available now for only $19.99!”
 “This product works better than ever!”
 “See event at 9 PM on TV channel, on this day!”
+“Join the Green Party Today”
 
 4.3.6. Commercial content and sponsors must follow all the content rules above, and the Epic Content Guidelines, and must not:
 
@@ -234,12 +239,11 @@ Promote real-world dating, romantic introductions, or hook-ups.
 OTHER TERMS & CONDITIONS
 As a player of Fortnite, you are bound by the Fortnite EULA. If you use Unreal Editor for Fortnite, you are additionally bound by the UEFN Supplemental Terms. If you are an island creator who has been given the ability to publish content to Fortnite, you are additionally bound by the Engagement Program Payout Terms. If you are a media creator who promotes Fortnite content, you are bound by the Support-A-Creator Terms & Conditions.
 
-
-CONSEQUENCES
-If Epic is made aware that the Creator Rules on this page are being violated, Epic will take action on a case-by-case basis. We will look at a variety of factors, including the severity of the issue, whether you’re a repeat offender, and other factors. Action taken can be anything; from a warning, ineligibility for appearing in Discovery or to be featured, or termination from programs, all the way up to a permanent account ban for more severe offenses.
+If Epic is made aware that the Creator Rules on this page are being violated, Epic will take action on a case-by-case basis. We will look at a variety of factors, including the severity of the issue, whether you’re a repeat offender, and other factors. Action taken can be anything; from a warning, ineligibility for appearing in Discovery or to be featured, loss of monetization, or termination from programs, all the way up to a permanent account ban for more severe offenses. Repeated violations risks further action, including potentially having your account or island monetization and publishing privileges suspended or permanently revoked.
 
 If your Epic account is permanently banned, you may lose all rights to Epic games, virtual items, account balances, or other items that you may have earned or purchased.
 
+ 
 
 REPORTING
 We are all a part of this community, and it is up to us to keep it friendly, fun, and free of negativity. If you encounter a player or creator who is not respecting the rules above, you can report them or report their island.
