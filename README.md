@@ -4,7 +4,7 @@ A basic repository to Fortnite Island Creator rule changes.
 
 ## Updates (PDF)
 
-- [`Mar 12, 2024`]()
+- [`Mar 12, 2024`](https://github.com/kbfngg/fn-island-creator-rules/blob/main/pdf/mar_12_2024.pdf)
 - [`Feb 15, 2024`]()
 - [`Nov 10, 2023`]()
 - [`Mar 22, 2023`]()
