@@ -1,4 +1,4 @@
-# Fortnite Island Creator Rules
+# [Fortnite Island Creator Rules](https://www.fortnite.com/news/fortnite-island-creator-rules)
 
 A basic repository to Fortnite Island Creator rule changes.
 
