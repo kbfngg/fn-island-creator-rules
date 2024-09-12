@@ -4,6 +4,7 @@ A basic repository to Fortnite Island Creator rule changes.
 
 ## Updates (PDF)
 
+- [`Sep. 12, 2024`](https://github.com/kbfngg/fn-island-creator-rules/blob/main/pdf/sep_12_2024.pdf)
 - [`Mar. 20, 2024`](https://github.com/kbfngg/fn-island-creator-rules/blob/main/pdf/mar_20_2024.pdf)
 - [`Mar. 12, 2024`](https://github.com/kbfngg/fn-island-creator-rules/blob/main/pdf/mar_12_2024.pdf)
 - [`Feb. 15, 2024`](https://github.com/kbfngg/fn-island-creator-rules/blob/main/pdf/feb_15_2024.pdf)
@@ -12,6 +13,9 @@ A basic repository to Fortnite Island Creator rule changes.
 
 ## Diffs
 
+
+
+- [`Mar. 20, 2024` - `Sep. 12, 2024`](https://github.com/kbfngg/fn-island-creator-rules/commit/6a94611f42f13d11a3f4232a78a80f9eb74bc97f)
 - [`Mar. 12, 2024` - `Mar. 20, 2024`](https://github.com/kbfngg/fn-island-creator-rules/commit/f6754720f1f56ba2f45459da7f84023bdf169b4a)
 - [`Feb. 15, 2024` - `Mar. 12, 2024`](https://github.com/kbfngg/fn-island-creator-rules/commit/0dd079ebd07617307ee2bfb93a910f7499edadf0)
 - [`Nov. 10, 2023` - `Feb. 15, 2024`](https://github.com/kbfngg/fn-island-creator-rules/commit/07b92fedc3d6ff41d44dcf025755f93631ef0f66)
