@@ -1,19 +1,13 @@
 Fortnite Island Creator Rules
-Last updated: September 12, 2024  
+Last updated: October 1, 2024  
 
-UPDATE (September 12, 2024)
+UPDATE (October 1, 2024)
 We have made a number of policy updates. The key changes are:
 
 Updates to: 
-1.1.1 A Safe Environment
-1.2 Keep Personal Info Private
-1.13 Keep It Authentic
-1.19 Island Content Disclosures
-3.2.4 Marketing Activities
-New additions: 
-1.14 Follow Epic’s Style Requirements
-1.16.7 Promotional Materials
-1.20. Creator Picks
+Applicable Rules
+1.15.7 Promotional Materials
+1.20 Creator Picks
 
 Please take the time to read through these updated rules and familiarize yourself with them.
 Welcome Fortnite Creator!
@@ -36,7 +30,7 @@ Your behavior and content must comply with the rules below, and the Epic Games C
 
 Any promotion of your island, both within and outside of Fortnite, must comply with the rules below, and the Fortnite Creative Branding Guidelines.
 
-If you choose to use any LEGO® Templates you must comply with the IP Partner Licensing Agreement and the LEGO Brand and Creator Rules.
+If you choose to use any third party IP, such as LEGO® or Teenage Mutant Ninja Turtles (TMNT) Assets and Templates, you must comply with the IP Partner Licensing Agreement and the related Brand and Creator Rules (LEGO Brand and Creator Rules, TMNT Brand and Creator Rules).
 The Rules
 
 1. Content Rules & Guidelines
@@ -45,7 +39,7 @@ As we work together to ensure Fortnite stays a safe and welcoming environment fo
 
 1.1 A Safe Environment - Don’t create, upload, or publish content promoting illegal activities, including the promotion of known real-world gangs or gang violence, the promotion of known real-world terrorist organizations or terrorism, the promotion of real-world violent extremists or extremism, harassment, bullying, assault, doxing, swatting, gambling, illegal drugs, animal cruelty, fraud, hacking, and piracy. Content that depicts, condones, incites, or threatens real-world violence against others is prohibited. 
 
-1.2 Keep Personal Info Private - To respect privacy and help combat deceptive practices like phishing and buying/selling account information, do not disclose, gather, exploit, or request personal information of individuals or organizations anywhere in your island. Epic provides ways to share your social handles throughout your island and this should be the only method used for in-island social media connections; you may not include a URL or QR code or a request for direct or private messages. Do not include videos or photographs of real-life people (yourself or others) anywhere in your island, or metadata (name, description, thumbnail, loading screen text, lobby background, and/or trailers). Epic's voice and text chat within Fortnite include protections like privacy settings, parental controls, and player reporting. So don't provide other chat methods on your island, like chat boxes or custom keyboards.
+1.2 Keep Personal Info Private - To respect privacy and help combat deceptive practices like phishing and buying/selling account information, do not disclose, gather, exploit, or request personal information of individuals or organizations anywhere in your island. You may not include a URL or QR code or a request for direct or private messages. Do not include videos or photographs of real-life people (yourself or others) anywhere in your island, or metadata (name, description, thumbnail, loading screen text, lobby background, and/or trailers). Epic's voice and text chat within Fortnite include protections like privacy settings, parental controls, and player reporting. So don't provide other chat methods on your island, like chat boxes or custom keyboards.
 
 1.3 Intolerance and Discrimination - Fortnite welcomes diversity in race, ethnicity, color, religion, gender identity, sexual orientation, disability, national origin, and other groups. Content should not demean, dehumanize, marginalize, use hateful language against, perpetuate negative stereotypes about, or belittle other users or groups. Islands that promote or encourage intolerance or discrimination will not be allowed.
 
@@ -77,53 +71,53 @@ As we work together to ensure Fortnite stays a safe and welcoming environment fo
 
 1.13.4. Do not mislead players as to the sort of experience they will have.   
 
-1.14 Follow Epic’s Style Requirements
+1.14 Stay within Spec Requirements - Make sure the islands you are creating do not cause server issues, intentionally or not. Frame rates should stay above 30 FPS.
 
-1.14.1. Lobby background must not contain text.
-
-1.14.2. Metadata must adhere and follow the Thumbnail Image Guidelines for Discover and Lobby Background Image Guidelines.
-1.15 Stay within Spec Requirements - Make sure the islands you are creating do not cause server issues, intentionally or not. Frame rates should stay above 30 FPS.
-
-1.16 Align with Fortnite’s Game Rating - Fortnite is an ecosystem with a range of ratings and content must not exceed Fortnite’s maximum age rating. Please refer to the IARC Overview for “Maximum Age Ratings in Fortnite. Please refer to the IARC Overview for “Maximum Age Ratings in Fortnite”. We also don't accept content that targets children under 13 as its primary audience (no nursery rhymes). Images and text used to promote your island must be appropriate for a general audience (e.g. content that would merit a rating of ESRB Everyone 10+, or lower).
+1.15 Align with Fortnite’s Game Rating - Fortnite is an ecosystem with a range of ratings and content must not exceed Fortnite’s maximum age rating. Please refer to the IARC Overview for “Maximum Age Ratings in Fortnite”. We also don't accept content that targets children under 13 as its primary audience (no nursery rhymes). Images and text used to promote your island must be appropriate for a general audience (e.g. content that would merit a rating of ESRB Everyone 10+, or lower).
 
 We require all creators to obtain age ratings for your content via IARC (International Age Rating Coalition) upon publishing. When creating or publishing content for Fortnite, you must also follow these content rules: 
 
-1.16.1. Violence & Gore: Violence must never be realistic. Death animations and kill replays are not permitted. Realistic gore of any kind is not permitted, including any inclusion of or reference to real or fake blood. Your content may contain horror themes and/or “scary” content, but neither may be intense or sustained. You must avoid disturbing images.
+1.15.1. Violence & Gore: Violence must never be realistic. Death animations and kill replays are not permitted. Realistic gore of any kind is not permitted, including any inclusion of or reference to real or fake blood. Your content may contain horror themes and/or “scary” content, but neither may be intense or sustained. You must avoid disturbing images.
 
-1.16.2. Language: Use of mild profanity and innuendo is permitted, but must not be frequent. Hateful or discriminatory language of any kind is not permitted. Sexual expletives of any kind are not permitted. 
+1.15.2. Language: Use of mild profanity and innuendo is permitted, but must not be frequent. Hateful or discriminatory language of any kind is not permitted. Sexual expletives of any kind are not permitted.
 
-1.16.3. Nudity & Sexually Suggestive Themes: Romantic themes are permitted, but must not go as far as strong or frequent sexually suggestive themes and references. Depictions of full nudity or sexual activities are not permitted in any form.
+1.15.3. Nudity & Sexually Suggestive Themes: Romantic themes are permitted, but must not go as far as strong or frequent sexually suggestive themes and references. Depictions of full nudity or sexual activities are not permitted in any form.
 
-1.16.4. Alcohol & Drug References: References to alcohol, tobacco, illegal drugs, or drug-taking are not permitted in any form.
+1.15.4. Alcohol & Drug References: References to alcohol, tobacco, illegal drugs, or drug-taking are not permitted in any form.
 
-1.16.5. Gambling: Islands that teach or prominently feature images or activities that are typically associated with real-world gambling, casino style games, or games of chance that offer a prize, even if they are not directly simulating a gambling experience, are not permitted in any form.
+1.15.5. Gambling: Islands that teach or prominently feature images or activities that are typically associated with real-world gambling, casino style games, or games of chance that offer a prize, even if they are not directly simulating a gambling experience, are not permitted in any form.
 
-1.16.6. Obscenity: Realistic depictions of bodily functions including excrement, defecation, urination, or vomit are not permitted in any form.
+1.15.6. Obscenity: Realistic depictions of bodily functions including excrement, defecation, urination, or vomit are not permitted in any form.
 
-1.16.7. Promotional Materials: All island metadata (name, description, thumbnail, & loading screen text) must be suitable for a general audience and cannot contain realistic violence, suggestive themes, crude humor, gore, references to gambling or use of strong language. Examples of prohibited content include:
+1.15.7. Promotional Materials: All island metadata (name, description, thumbnail, & loading screen text) must be suitable for a general audience and cannot contain realistic violence, suggestive themes, crude humor, gore, references to gambling or use of strong language. Examples of prohibited content include:
 
 Mildly sexualized depictions of a character’s body parts, such as breasts or buttocks
 Images that elicit a strong sense of threat, dread or terror (e.g. grotesque creatures)
-Active gunfire
+Active gunfire from a visible weapon
 Crosshairs shown over a face/head
 Guns pointed at the viewer
 Guns pointed at head of character
 Learn more: ESRB Ratings Principles and Guidelines.  
-1.17 Misuse of Epic Systems - Epic maintains many systems to keep our users safe and their data secure. Do not attempt to bypass these protections to gain unauthorized access to any Epic systems or data. Do not attempt to gain sensitive information from players. Do not attempt to create or distribute malicious software via Epic systems.
+1.16 Misuse of Epic Systems - Epic maintains many systems to keep our users safe and their data secure. Do not attempt to bypass these protections to gain unauthorized access to any Epic systems or data. Do not attempt to gain sensitive information from players. Do not attempt to create or distribute malicious software via Epic systems.
 
-1.18 Educational Exceptions - We may permit exceptions at our discretion to our Island Creator Rules if the primary purpose of your island is to provide an educational, scientific, artistic, or historical experience.
+1.17 Educational Exceptions - We may permit exceptions at our discretion to our Island Creator Rules if the primary purpose of your island is to provide an educational, scientific, artistic, or historical experience.
 
-1.19 Island Content Disclosures - When answering the IARC Age Rating Questionnaire, you are required to accurately disclose relevant content within your Island in order to receive the correct age ratings. Content that is relevant to age ratings includes:
+1.18 Island Content Disclosures - When answering the IARC Age Rating Questionnaire, you are required to accurately disclose relevant content within your Island in order to receive the correct age ratings. Content that is relevant to age ratings includes:
 
-1.19.1. Violence 
-1.19.2. Fear or Gore
-1.19.3. Sexuality
-1.19.4. Gambling themes
-1.19.5. Languages
-1.19.6. Controlled Substances
-1.19.7. Crude humor
+1.18.1. Violence 
+1.18.2. Fear or Gore
+1.18.3. Sexuality
+1.18.4. Gambling themes
+1.18.5. Languages
+1.18.6. Controlled Substances
+1.18.7. Crude humor
 
-1.20. Creator Picks - Paid promotions are prohibited in islands featured in your "Creator Picks" section. You must not accept payment, in any form, to list an experience in the Creator Picks section of your in-game Creator Page.
+1.19 Follow Epic’s Style Requirements
+
+1.19.1. Lobby background must not contain text. 
+1.19.2. Metadata must adhere and follow the Thumbnail Image Guidelines for Discover and Lobby Background Image Guidelines.  
+
+1.20 Creator Picks - Paid promotions and collaborations are prohibited in islands featured in your "Creator Picks" section.  You must not accept payment, in any form, to list an experience in the Creator Picks section of your Creator Page.
 
 2. Working with Others
 
@@ -248,7 +242,7 @@ Other Terms & Conditions
 
 As a player of Fortnite, you are bound by the Fortnite EULA. If you use Unreal Editor for Fortnite, you are additionally bound by the UEFN Supplemental Terms. If you are an island creator who has been given the ability to publish content to Fortnite, you are additionally bound by the Engagement Program Payout Terms. If you are a media creator who promotes Fortnite content, you are bound by the Support-A-Creator Terms & Conditions.
 
-If Epic is made aware that the Creator Rules on this page, (including, if using a LEGO® Template, the LEGO Brand and Creator Rules and the terms in the IP Partner Licensing Agreement), are being violated, Epic will take action on a case-by-case basis. Enforcement actions can be anything; from a warning, changes in Discover visibility, disabled content, loss of publishing privileges, all the way up to a permanent account or monetization ban for more severe or repeated offenses.
+If Epic is made aware that the Creator Rules on this page, (including the LEGO Brand and Creator Rules, the TMNT Brand and Creator Rules, and the terms in the IP Partner Licensing Agreement), are being violated, Epic will take action on a case-by-case basis. Enforcement actions can be anything; from a warning, changes in Discover visibility, disabled content, loss of publishing privileges, all the way up to a permanent account or monetization ban for more severe or repeated offenses.
 
 If your Epic account is permanently banned, you may lose all rights to Epic games, virtual items, account balances, or other items that you may have earned or purchased.
 
