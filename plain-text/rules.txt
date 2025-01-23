@@ -1,13 +1,10 @@
 Fortnite Island Creator Rules
-Last updated: October 1, 2024  
+Last updated: January 23, 2025  
 
-UPDATE (October 1, 2024)
-We have made a number of policy updates. The key changes are:
+UPDATE (January 23, 2025)
+We have a policy clarification. The key clarifications are:
 
-Updates to: 
-Applicable Rules
-1.15.7 Promotional Materials
-1.20 Creator Picks
+1.13 Keep It Authentic: We added more detail to 1.13.3 about the types of terms and imagery that are prohibited because they may mislead players about XP gains.
 
 Please take the time to read through these updated rules and familiarize yourself with them.
 Welcome Fortnite Creator!
@@ -51,7 +48,7 @@ As we work together to ensure Fortnite stays a safe and welcoming environment fo
 
 1.7 Respect IP Ownership - The content you create, publish, or use cannot infringe or violate someone else's rights, including their intellectual property rights (such as copyright or trademark). You must own or have obtained the necessary rights to share and publish the content, and any such license must be broad enough to grant Epic a license consistent with the Fortnite EULA and the UEFN Supplemental Terms. More information about copyright can be found here.
 
-1.8 Give Credit Where It’s Required - If you use content with a license that requires attribution, like Creative Commons 4.0 International, you must give any required credits, such as by using the "Attributions" section in the Creator Portal. Keep in mind that some licenses may not be compatible with ourtools or with UEFN. If you're not sure that you can meet the license's attribution requirements, don't use the licensed content.
+1.8 Give Credit Where It’s Required - If you use content with a license that requires attribution, like Creative Commons 4.0 International, you must give any required credits, such as by using the "Attributions" section in the Creator Portal. Keep in mind that some licenses may not be compatible with our tools or with UEFN. If you're not sure that you can meet the license's attribution requirements, don't use the licensed content.
 
 1.9 Play by the Rules - Do not create islands that promote the use of cheats, exploits, glitched items, server crashes, and bugs. Do not scam players on your island.
 
@@ -61,15 +58,15 @@ As we work together to ensure Fortnite stays a safe and welcoming environment fo
 
 1.12 Keep It on the Island - Do not include external links anywhere on your island.
 
-1.13 Keep It Authentic - The assets (such as thumbnail images, descriptions, titles,) you use to promote your Fortnite island must accurately represent the content within your island.
+1.13 Keep It Authentic - The assets (such as thumbnail images, descriptions, titles) you use to promote your Fortnite island must accurately represent the content within your island.
 
-1.13.1. Do not imitate or supplement visual elements provided by Fortnite to indicate a feature to players (e.g. the ability to earn Fortnite XP in your island, or game ratings.
+1.13.1. Do not imitate or supplement visual elements provided by Fortnite to indicate a feature to players (e.g. the ability to earn Fortnite XP in your island, or game ratings).
 
 1.13.2. Do not mention V-Bucks, Battle Pass, real-world currency, or rewards. 
 
-1.13.3. Do not incorporate elements that promise or mislead players regarding XP gains, in-game items, or Quests.
+1.13.3. Do not incorporate elements that promise or mislead players regarding XP gains, in-game items, or Quests. Do not use terms such as “AFK,” “XP,” “Coin farm,” or “Coin slide” in your name, description, thumbnail, loading screen text, or lobby background. Do not use images of Fortnite coins or similar coins in your thumbnails and lobby backgrounds. Do not use any other imagery or language that may mislead players.
 
-1.13.4. Do not mislead players as to the sort of experience they will have.   
+1.13.4. Do not mislead players as to the sort of experience they will have. 
 
 1.14 Stay within Spec Requirements - Make sure the islands you are creating do not cause server issues, intentionally or not. Frame rates should stay above 30 FPS.
 
@@ -117,7 +114,7 @@ Learn more: ESRB Ratings Principles and Guidelines.
 1.19.1. Lobby background must not contain text. 
 1.19.2. Metadata must adhere and follow the Thumbnail Image Guidelines for Discover and Lobby Background Image Guidelines.  
 
-1.20 Creator Picks - Paid promotions and collaborations are prohibited in islands featured in your "Creator Picks" section.  You must not accept payment, in any form, to list an experience in the Creator Picks section of your Creator Page.
+1.20 Creator Picks - Paid promotions and collaborations are prohibited in islands featured in your "Creator Picks" section. You must not accept payment, in any form, to list an experience in the Creator Picks section of your Creator Page.
 
 2. Working with Others
 
