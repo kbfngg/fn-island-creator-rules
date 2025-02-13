@@ -1,12 +1,12 @@
 Fortnite Island Creator Rules
-Last updated: January 23, 2025  
+Last updated: February 13, 2025  
 
-UPDATE (January 23, 2025)
-We have a policy clarification. The key clarifications are:
+UPDATE (February 13, 2025)
 
-1.13 Keep It Authentic: We added more detail to 1.13.3 about the types of terms and imagery that are prohibited because they may mislead players about XP gains.
-
-Please take the time to read through these updated rules and familiarize yourself with them.
+We have a policy update. You can now use text in parts of your lobby backgrounds.
+Updates to rules 1.10, 1.15.7, and 4.2: Existing rules apply to lobby backgrounds.
+Removed rule 1.19.1 which was previously prohibiting text in lobby backgrounds. 
+Please take the time to read through these updated rules and familiarize yourself with them. 
 Welcome Fortnite Creator!
 
 The Fortnite Creative & Unreal Editor for Fortnite tools allow you to create islands that can be published within Fortnite.
@@ -52,7 +52,7 @@ As we work together to ensure Fortnite stays a safe and welcoming environment fo
 
 1.9 Play by the Rules - Do not create islands that promote the use of cheats, exploits, glitched items, server crashes, and bugs. Do not scam players on your island.
 
-1.10 Appropriate Language Only - Don’t include obscene text or symbols in your island’s metadata (name, description, thumbnail, loading screen text, or trailer), promotional materials, your display name, creator code, or elsewhere on your island. This includes spelling variations or visual depictions of text aimed at evading this rule.
+1.10 Appropriate Language Only - Don’t include obscene text or symbols in your island’s metadata (name, description, thumbnail, lobby background, loading screen text, or trailer), promotional materials, your display name, creator code, or elsewhere on your island. This includes spelling variations or visual depictions of text aimed at evading this rule.
 
 1.11 All Bets Are Off - Don’t implement playable gambling content, raffles, or casino-style games. These are prohibited whether or not they involve real money or virtual currency.
 
@@ -86,7 +86,7 @@ We require all creators to obtain age ratings for your content via IARC (Interna
 
 1.15.6. Obscenity: Realistic depictions of bodily functions including excrement, defecation, urination, or vomit are not permitted in any form.
 
-1.15.7. Promotional Materials: All island metadata (name, description, thumbnail, & loading screen text) must be suitable for a general audience and cannot contain realistic violence, suggestive themes, crude humor, gore, references to gambling or use of strong language. Examples of prohibited content include:
+1.15.7. Promotional Materials: All island metadata (name, description, thumbnail, lobby background, and loading screen text) must be suitable for a general audience and cannot contain realistic violence, suggestive themes, crude humor, gore, references to gambling or use of strong language. Examples of prohibited content include:
 
 Mildly sexualized depictions of a character’s body parts, such as breasts or buttocks
 Images that elicit a strong sense of threat, dread or terror (e.g. grotesque creatures)
@@ -111,8 +111,7 @@ Learn more: ESRB Ratings Principles and Guidelines.
 
 1.19 Follow Epic’s Style Requirements
 
-1.19.1. Lobby background must not contain text. 
-1.19.2. Metadata must adhere and follow the Thumbnail Image Guidelines for Discover and Lobby Background Image Guidelines.  
+1.19.1. Metadata must adhere and follow the Thumbnail Image Guidelines for Discover and Lobby Background Image Guidelines.  
 
 1.20 Creator Picks - Paid promotions and collaborations are prohibited in islands featured in your "Creator Picks" section. You must not accept payment, in any form, to list an experience in the Creator Picks section of your Creator Page.
 
@@ -193,11 +192,9 @@ We want to make it as easy as possible for you to monetize your Fortnite island 
 4.1.1. As an island creator, you may monetize your islands via engagement payouts, if you are eligible. To participate in this program, please apply at the Island Creator signup page.
 4.2 Support-A-Creator Program
 
-4.2.1. If you create media content on other platforms which promotes your Fortnite content, or promotes Fortnite content created by others, you may participate in Epic’s Support-A-Creator program. To participate in this program, please apply at the Support-A-Creator page.
+4.2.1. If you create media content on other platforms which promotes your Fortnite content or promotes Fortnite content created by others, you may participate in Epic’s Support-A-Creator program. To learn more and participate in this program, please apply at the Support-A-Creator FAQ.
 
-4.2.2. If you create media content on other platforms which promotes your Fortnite content or promotes Fortnite content created by others, you may participate in Epic’s Support-A-Creator program. To learn more and participate in this program, please apply at the Support-A-Creator FAQ.
-
-4.2.3. As a member of the Support-A-Creator program, you are free to advertise your Creator Code anywhere outside of Fortnite. If you are also an island creator, you must not solicit support for your Creator Code anywhere within your island, including a pre-game lobby, or in its metadata (name, description, thumbnail, loading screen text, or Discover video).
+4.2.2. As a member of the Support-A-Creator program, you are free to advertise your Creator Code anywhere outside of Fortnite. If you are also an island creator, you must not solicit support for your Creator Code anywhere within your island, including a pre-game lobby, or in its metadata (name, description, thumbnail, loading screen text, or Discover video).
 4.3 Commercial Content and Sponsorships
 
 Brands and creators are welcome to collaborate in Fortnite, as long as they follow these rules and any applicable laws. You cannot pay Epic Games to promote your content within Fortnite.
